@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# Copyright 2009-2017 BHG http://bw.org/
+
 
 # simple fibonacci series
 # the sum of two elements defines the next set
